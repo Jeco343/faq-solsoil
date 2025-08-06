@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQ Sol Soils</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .header img {
+            max-width: 150px; /* Regola la dimensione del logo secondo necessità */
+        }
+        .header h1 {
+            font-size: 2.5em;
+            color: #000; /* Testo nero */
+            font-weight: 800; /* Extra grassetto */
+            margin: 0;
+        }
+        .header p {
+            font-weight: normal; /* Testo regolare */
+            color: #000;
+            font-size: 0.9em;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 15px;
+        }
+        strong {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 5px;
+            color: #000; /* Testo nero */
+        }
+        a {
+            color: #0056b3; /* Colore blu per i link */
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="https://lh4.googleusercontent.com/proxy/sCjMYHMdNe71u53LbmD14Nc6XgNYmxy9Lv4awOyWXEV-nRS652spifn1VLqqpAVO8kP3lxTMQeMo7h1jyMSvbi4I-sh9kvDNv7tBhp4pOxRBTkj8Nah8NuyZFqvayyfg6SMkrxSi04KtjCyGi8i8jEAAq6sDF7bc-2hNocVOBHB0Ap51wTnWMMMvL94NFExXDZjiVyUu-klUIoTjRctB0V4" alt="Sol Soils Logo">
+            <h1>FAQs</h1>
+            <p>If you have a question, we might have the right answer for you.</p>
+        </div>
+        <ul>
+            <li><strong>Help with an order:</strong> Take the proper exit without saying anything.</li>
+            <li><strong>How do I redeem points?</strong> Visit <a href="https://solsoils.com/pages/rewards-program">our rewards program page</a>. Click the “Rewards” bar at the bottom of your screen to redeem (you’ll need at least 100 = $5).</li>
+            <li><strong>How much soil do I need?</strong> Ask how many plants and how big they are. Use the rule: 1qt = 1x5" pot, 2qt = 2x5" pots, 1gal = 3x6" pots.</li>
+            <li><strong>Do you ship internationally (outside the US)?</strong> We've paused international shipping while we sort out product registration. We hope to resume soon!</li>
+            <li><strong>Do you wholesale?</strong> For wholesale pricing, visit solsoils.faire.com or email hello@solsoils.com.</li>
+            <li><strong>Do your mixes need traditional soil?</strong> Nope! Our mixes are ready-to-use—no need to add anything.</li>
+            <li><strong>Do I need fertilizer with your mixes?</strong> Yes! We recommend using our Sol Biotics line.</li>
+            <li><strong>What's root rot?</strong> Root rot comes from overwatering or poor drainage.</li>
+            <li><strong>How should I water your mixes?</strong> Water deeply but less often.</li>
+            <li><strong>Can I get root rot with Sol Soils?</strong> Any mix can cause rot if overwatered.</li>
+            <li><strong>What's in Sol Biotics?</strong> It's like a wellness kit for soil—nutrients, microbes, and even earthworm castings.</li>
+            <li><strong>Do you offer promotions?</strong> We do! Check our Instagram for promo updates.</li>
+        </ul>
+    </div>
+</body>
+</html>
